@@ -1,1 +1,1 @@
-Hello world
+Repositório público para avaliação técnica de conhecimento em sistemas eletrônicos embarcados.
